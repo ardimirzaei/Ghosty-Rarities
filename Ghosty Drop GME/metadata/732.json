@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RedCircles"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "HotRedLens"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MonkeyHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Rose"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 732,
+  "name": "Ghosty #732"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "ColourStripes2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldLens"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "WideSmile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SlothHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coffee"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 304,
+  "name": "Ghosty #304"
+}

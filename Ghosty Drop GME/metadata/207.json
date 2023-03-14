@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "GreyBlue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Strokes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "HowYouDoin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "LightCowBoyHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "HotCoco"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 207,
+  "name": "Ghosty #207"
+}

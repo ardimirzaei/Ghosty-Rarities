@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "ColouredWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Noir"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FrenchHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "HotCoco"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 726,
+  "name": "Ghosty #726"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "AgesWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Strokes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chew"
+    },
+    {
+      "trait_type": "Head",
+      "value": "LlamaHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cake"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 465,
+  "name": "Ghosty #465"
+}

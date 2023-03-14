@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "ColourStripes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "WideSmile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backpack"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Present"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 403,
+  "name": "Ghosty #403"
+}

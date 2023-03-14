@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RetroPoint"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "FancyStash"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MonkeyHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "IceCreamGum"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 539,
+  "name": "Ghosty #539"
+}

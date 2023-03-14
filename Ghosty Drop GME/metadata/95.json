@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RibbonLines"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DesignerGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DetectiveHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "KingSword"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 95,
+  "name": "Ghosty #95"
+}

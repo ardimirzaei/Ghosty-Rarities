@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "GhostTrick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wood"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "KeenKiss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NoHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "PopsicleChoc"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 988,
+  "name": "Ghosty #988"
+}

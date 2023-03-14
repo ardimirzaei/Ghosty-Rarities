@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "ColourSwirl"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "CrazyPink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Head",
+      "value": "GentlemensHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "WizardStaff"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 639,
+  "name": "Ghosty #639"
+}

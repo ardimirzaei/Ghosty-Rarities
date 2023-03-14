@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "WoodPlanks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "VikingHelmet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "FlowerFrame"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 92,
+  "name": "Ghosty #92"
+}

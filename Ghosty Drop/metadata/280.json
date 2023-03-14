@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Frames",
+      "value": "Frame30"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ConcreteYellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "YellowEyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NoHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "IceCreamMint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    }
+  ],
+  "description": "There are stories told late at night, that give children fear and fright. Are you daring enough to share with me, a chilling story, two or three? Before at last you turn the page, be warned now, at this stage. Only the brave enter here, for there is much, much to fear...",
+  "edition": 280,
+  "name": "GhostyS1 #280"
+}

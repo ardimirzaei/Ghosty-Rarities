@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "LargeBubbles"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oooooo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "CuteBow"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Note"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 110,
+  "name": "Ghosty #110"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "TwisofFate2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "HowYouDoin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "UnicornHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Note"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 340,
+  "name": "Ghosty #340"
+}

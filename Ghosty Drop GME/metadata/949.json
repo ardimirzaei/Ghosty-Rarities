@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RedBlend"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Plank"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NoHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Banjo"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 949,
+  "name": "Ghosty #949"
+}

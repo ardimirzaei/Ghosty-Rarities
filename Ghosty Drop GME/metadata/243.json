@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "CleanWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "AviatorGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SlothHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Doughnut"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 243,
+  "name": "Ghosty #243"
+}

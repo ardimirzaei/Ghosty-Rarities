@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Waves3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "LlamaHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cake"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 476,
+  "name": "Ghosty #476"
+}

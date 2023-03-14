@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "WoodWhite"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "HotRedLens"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FoxHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "CandyCain"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 370,
+  "name": "Ghosty #370"
+}

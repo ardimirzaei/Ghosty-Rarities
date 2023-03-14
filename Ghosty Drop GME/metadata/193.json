@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "CreamStrokes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "CrazyPink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "LongSmile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NoHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Flashlight"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 193,
+  "name": "Ghosty #193"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "ColourStripes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "LongSmile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DarkCowBoyHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Rose"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 32,
+  "name": "Ghosty #32"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "BlackBrushed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "OrangeGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "FighertStash"
+    },
+    {
+      "trait_type": "Head",
+      "value": "CatHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "ElectricGuitar"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 505,
+  "name": "Ghosty #505"
+}

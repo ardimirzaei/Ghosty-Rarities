@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "FreshWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldLens"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "PirateHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "PaintSet"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 912,
+  "name": "Ghosty #912"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RedBlend"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoosterHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "BoomBoom"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 85,
+  "name": "Ghosty #85"
+}

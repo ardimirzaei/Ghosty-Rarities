@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "PaperRibbon2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "HowYouDoin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SpecialCrown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "ElectricGuitar"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 173,
+  "name": "Ghosty #173"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "WoodBlocks3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ChippedWood"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "JawDrop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SpikeCrown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 494,
+  "name": "Ghosty #494"
+}

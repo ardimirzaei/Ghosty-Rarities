@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "PaperRibbon2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BreakingSmile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backpack"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cake"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 685,
+  "name": "Ghosty #685"
+}

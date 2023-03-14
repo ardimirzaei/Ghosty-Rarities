@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "WetWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scared"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MonkeyHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "FishingRod"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 848,
+  "name": "Ghosty #848"
+}

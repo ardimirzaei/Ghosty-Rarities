@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "BrowStrokes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discovery"
+    },
+    {
+      "trait_type": "Head",
+      "value": "LionHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Doughnut"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 49,
+  "name": "Ghosty #49"
+}

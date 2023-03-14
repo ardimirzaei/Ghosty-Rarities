@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "MasterStroke3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GlareShades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "What"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DarkCowBoyHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "PirateFlag"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 386,
+  "name": "Ghosty #386"
+}

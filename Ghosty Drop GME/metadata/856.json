@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RetroPoint"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oooooo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "PirateKing"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "HotCoco"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 856,
+  "name": "Ghosty #856"
+}

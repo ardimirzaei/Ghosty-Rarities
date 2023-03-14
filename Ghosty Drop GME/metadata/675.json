@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "SilverFoil"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MIGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chew"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NoHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "FishingRod"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 675,
+  "name": "Ghosty #675"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "MasterBrush2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "AviatorGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "CorgiHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Banjo"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 577,
+  "name": "Ghosty #577"
+}

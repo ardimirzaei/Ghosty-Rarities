@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "MashedColours"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OlsStash"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trumpet"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 941,
+  "name": "Ghosty #941"
+}

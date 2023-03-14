@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RedBlocks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SmartGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Candy"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 124,
+  "name": "Ghosty #124"
+}

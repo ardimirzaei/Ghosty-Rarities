@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Ribbons3D"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BluePurple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ElephantHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Flute"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 136,
+  "name": "Ghosty #136"
+}

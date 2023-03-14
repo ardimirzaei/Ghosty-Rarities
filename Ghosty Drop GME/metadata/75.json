@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "WhiteWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CheshireGrin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SpaceCrown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Macarana"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 75,
+  "name": "Ghosty #75"
+}

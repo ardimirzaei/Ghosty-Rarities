@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "SolidWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Plant"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NoHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sax"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 389,
+  "name": "Ghosty #389"
+}

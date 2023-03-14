@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "DarkStrokes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SkyGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GentlemanStash"
+    },
+    {
+      "trait_type": "Head",
+      "value": "UnicornHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cupcake"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 584,
+  "name": "Ghosty #584"
+}

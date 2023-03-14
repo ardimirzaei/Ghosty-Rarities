@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "BrushPoints"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MixedGlow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "WideSmile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BullHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sax"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 466,
+  "name": "Ghosty #466"
+}

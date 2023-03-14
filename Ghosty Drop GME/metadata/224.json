@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "PinkSplodge"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "CoolGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poke"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandanna"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "PlantSmall"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 224,
+  "name": "Ghosty #224"
+}

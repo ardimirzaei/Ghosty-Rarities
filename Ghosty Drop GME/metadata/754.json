@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "PaperRibbon"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CheshireGrin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SpinnerRed"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trumpet"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 754,
+  "name": "Ghosty #754"
+}

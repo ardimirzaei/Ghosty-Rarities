@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "StrangeLines"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3DGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "GentlemensHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Skull"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 271,
+  "name": "Ghosty #271"
+}

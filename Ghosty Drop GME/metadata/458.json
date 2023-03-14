@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "InkExplosions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "HotRedLens"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BullHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coffee"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 458,
+  "name": "Ghosty #458"
+}

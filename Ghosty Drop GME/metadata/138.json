@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "BlackBrown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "CoolGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "JawDrop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "PaintBrush"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 138,
+  "name": "Ghosty #138"
+}

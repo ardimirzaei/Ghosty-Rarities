@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "StainedWood2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scared"
+    },
+    {
+      "trait_type": "Head",
+      "value": "GiraffeHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "PlantSmall"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 181,
+  "name": "Ghosty #181"
+}

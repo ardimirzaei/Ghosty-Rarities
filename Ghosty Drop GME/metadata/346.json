@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "BlocksofFate"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BluePurple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Amazed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NoHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Rose"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 346,
+  "name": "Ghosty #346"
+}

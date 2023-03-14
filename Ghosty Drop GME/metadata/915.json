@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RetroSwirl2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "KeenKiss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "PurpleBandana"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Candy"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 915,
+  "name": "Ghosty #915"
+}

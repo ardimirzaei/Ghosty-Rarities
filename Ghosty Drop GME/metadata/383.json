@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "RetroRainbow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ExplorerHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "ElectricGuitar"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 383,
+  "name": "Ghosty #383"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BeachGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GentlemanStash"
+    },
+    {
+      "trait_type": "Head",
+      "value": "LightCowBoyHat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "HookHand"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 879,
+  "name": "Ghosty #879"
+}

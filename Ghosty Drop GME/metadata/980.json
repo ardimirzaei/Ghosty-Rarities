@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "BlocksofFate3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Velvet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helmet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Microphone"
+    }
+  ],
+  "description": "Ghostly Tales is a collection of 1,000 unique Ghostys that are setting out for an adventure!\n\nBe brave!",
+  "edition": 980,
+  "name": "Ghosty #980"
+}
